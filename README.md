@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👤SOBRE MI:
+👋 Soy SystemInfect un desarrollador en **JavaScript y Python developer**
 
-<!--
-**SystemInfect2/SystemInfect2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 SKILLS 
 
-Here are some ideas to get you started:
+![Skills](https://skillicons.dev/icons?i=discordjs,js,nodejs,python,npm&theme=dark&perline=10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 REDES SOCIALES:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/systeminfect)
+
+# 📊 ESTADISTICAS DE GITHUB:
+![](https://github-readme-stats.vercel.app/api?username=SystemInfect2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemInfect2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+![](https://komarev.com/ghpvc/?username=SystemInfect2&style=for-the-badge)
